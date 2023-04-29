@@ -1,16 +1,16 @@
 .WrapperHeader {
-		display: flex;
-		flex-direction: row;
-		align-items: center;
-		justify-content: center;
-		border-bottom: 1px lightgray solid;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px lightgray solid;
 }
 
 .Container {
-	display: flex;
-		flex-direction: row;
-		justify-content: space-between;
-		align-items: center;
-		width: 90%;
-		max-width: 60rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 60rem;
 }
