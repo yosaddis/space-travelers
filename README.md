@@ -51,7 +51,7 @@
 - [x] Use Kanban Board to manage the project.
 - [x] Config & basic setup.
 - [x] Fetch data and update Redux store.
-- [x] List the returned vslues from API.
+- [x] List the returned values from API.
 - [x] Add actions and reducers for booking/canceling  rockets and joining/leaving missions.
 - [x] Render conditional components rendering.
 - [x] Render my Profile section.
