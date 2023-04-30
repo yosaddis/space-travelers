@@ -14,7 +14,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -51,7 +50,7 @@
 - [x] Use Kanban Board to manage the project.
 - [x] Config & basic setup.
 - [x] Fetch data and update Redux store.
-- [x] List the returned vslues from API.
+- [x] List the returned values from API.
 - [x] Add actions and reducers for booking/canceling  rockets and joining/leaving missions.
 - [x] Render conditional components rendering.
 - [x] Render my Profile section.
@@ -80,8 +79,6 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests <a name="run-tests"></a>
 
 - You can check for errors by running linter tests found in the github flows.
-
-### Deployment <a name="deployment"></a>
 
 - run `npm run start` to run it locally.
 
