@@ -14,7 +14,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -80,8 +79,6 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests <a name="run-tests"></a>
 
 - You can check for errors by running linter tests found in the github flows.
-
-### Deployment <a name="deployment"></a>
 
 - run `npm run start` to run it locally.
 
